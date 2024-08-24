@@ -17,8 +17,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro,git,bootstrap,python,mongo,mysql,npm,rollupjs,jest,figma,aws,cloudflare,azure,latex,md,discord,github,vscode" />
 </p>
 
-<br />
-
 ### 📊 Github Stats
 <p align=center>
   <div align=center>
