@@ -25,7 +25,5 @@
   </div>
 </p>
 
-<br />
-
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBrb3ppbWhjdWJtdzY0bnhmemVwY3lvbjNnbTJ1cnA4eWozMnpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dAWZiSMbMvObDWP3aA/giphy.gif" width=100% height=1/>
