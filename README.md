@@ -11,12 +11,15 @@
 <br/>
 💭 Currently learning the React technology stack.
 
+### 🔨 Languages and Tools:
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro,git,bootstrap,python,mongo,mysql,npm,rollupjs,jest,figma,aws,cloudflare,azure,latex,md,discord,github,vscode" />
 </p>
 
 <br />
 
+### 📊 Github Stats
 <p align=center>
   <div align=center>
       <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shootmewolft&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
