@@ -1,6 +1,6 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBrb3ppbWhjdWJtdzY0bnhmemVwY3lvbjNnbTJ1cnA4eWozMnpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dAWZiSMbMvObDWP3aA/giphy.gif" width=100% height=1/>
 
-# Welcome to Alvaro Pedrozo's GitHub 👋
+# Welcome to Alvaro's GitHub 👋
 
 ### 📱 Contact Me 
 <a href='https://www.linkedin.com/in/alvaro-pedrozo-b8600423b/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
