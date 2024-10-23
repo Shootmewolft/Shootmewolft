@@ -17,7 +17,7 @@
 ### 🔨 Languages and Tools:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro,git,bootstrap,python,mysql,npm,jest,figma,aws,cloudflare,azure,latex,md,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,astro,git,bootstrap,python,mysql,aws,cloudflare,bash,docker" />
 </p>
 
 ### 📊 Github Stats
